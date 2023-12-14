@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8206-585E
+
+ Directory of C:\Users\Administrator\Desktop\MyProject
+
+14-12-2023  10:44    <DIR>          .
+14-12-2023  10:44    <DIR>          ..
+14-12-2023  10:44                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,454,484,992 bytes free
